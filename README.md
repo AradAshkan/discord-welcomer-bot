@@ -28,9 +28,10 @@ This project contains two implementations of a Discord Welcomer Bot, written in 
 
 ## Installation
 
-### Python Implementation
     git clone https://github.com/aradashkan/discord-welcomer-bot.git
     cd discord-welcomer-bot
+
+### Python Implementation
 
 1. **Install Dependencies**:
    ```
