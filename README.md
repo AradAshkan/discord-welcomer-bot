@@ -32,14 +32,14 @@ This project contains two implementations of a Discord Welcomer Bot, written in 
     ```bash
     git clone https://github.com/aradashkan/discord-welcomer-bot.git
     cd discord-welcomer-bot
-```
+
 1. **Install Dependencies**:
    ```bash
    pip install discord.py
-```
+
 ### Python Implementation
 
 1. **Install Dependencies**:
    ```bash
    npm install discord.js
-```
+
