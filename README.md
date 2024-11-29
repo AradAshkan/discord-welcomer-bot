@@ -36,10 +36,10 @@ This project contains two implementations of a Discord Welcomer Bot, written in 
 1. **Install Dependencies**:
    ```bash
    pip install discord.py
-
+```
 ### Python Implementation
 
 1. **Install Dependencies**:
    ```bash
    npm install discord.js
-
+```
